@@ -27,6 +27,7 @@ Listado de las startups cubanas
 * [Qvaqui](https://www.qvaqui.com): Apasionados por la tecnología, haciendo crecer tu negocio online y promocionando tus redes sociales y crecimiento empresarial. Encantados con el desarrollo constante de plataformas, servicios online y marketing en todas las esferas.
 * [Qvashop](https://www.qvashop.com): Primera Tienda Online de Celulares y Computadoras en Cuba.
 * [Sube](http://subecuba.com): Aplicación de taxis en Cuba.
+* [SysAdminsdeCuba](https://www.sysadminsdecuba.com.com): Una comunidad de administradores de redes en cuba, donde se intercambia el conocimiento y se da soporte sobre las TIC.
 * [Yotellevo](https://yotellevocuba.com): Una comunidad de choferes de taxis privados en Cuba. Los contactas antes de llegar a la isla y te dan sus precios para tus traslados en Cuba.
 
 ¿Deseas incluir tu startup en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
